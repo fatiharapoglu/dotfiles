@@ -1,24 +1,35 @@
 # Project Name
 
-A brief description of what this project does and who it's for.
+Description of the project.
 
-# Helper Dependencies
+Created with **React** and **Firebase**.
 
-List any frameworks, libraries, or languages used in the project.
+⮕ [Live preview](https://fatiharapoglu.github.io/photo-tag/)
 
-# Features
+## Features
 
-List any features or functionalities that the project offers.
+-   Feature 1
+-   Feature 2
+-   Feature 3
 
-# How It Looks
+## Helper Dependencies
 
-Add a section where you can show a demo of the project.
-Include GIFs or screenshots that showcase the project.
+-   [Firebase](https://firebase.google.com/) Firestore for leaderboard database
+-   [Bad-words](https://www.npmjs.com/package/bad-words/) for censoring bad words in leaderboard
+-   [Sass](https://sass-lang.com/) for SCSS
+-   [Eslint](https://eslint.org/) for linting
+-   [Prettier](https://prettier.io/) for formatting
 
-# Roadmap
+## Roadmap
 
-Outline any future plans for the project.
+-   To-do 1
+-   To-do 2
 
-# Acknowledgements
+## Acknowledgements
 
-Give credit to any resources or people who inspired the project or provided assistance.
+-   [Pierre Roussel](https://www.artstation.com/pierreroussel) (level images provider)
+-   [@shinephoenixstormcrow](https://freesound.org/people/shinephoenixstormcrow/) (success & fail sound effects)
+
+## How It Looks
+
+![ss](readme.jpg)

@@ -1,20 +1,35 @@
 {
-    "name": "dotfiles",
+    "name": "name",
     "version": "1.0.0",
-    "description": "Dot files for reference",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "private": true,
+    "description": "Example dot files for reference",
     "keywords": [],
     "author": "Fatih Arapoğlu",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/fatiharapoglu/dotfiles/issues"
+    "homepage": "http://fatiharapoglu.github.io/repository/",
+    "scripts": {
+        "start": "node server.js",
+        "devWebpack": "npx webpack main.js --watch",
+        "devVite": "vite",
+        "build": "vite build",
+        "deployDist": "git subtree push --prefix dist origin gh-pages",
+        "predeploy": "npm run build",
+        "deployGhPages": "gh-pages -d build"
     },
-    "homepage": "https://github.com/fatiharapoglu/dotfiles#readme",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/fatiharapoglu/dotfiles.git"
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.8.1",
+        "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.36.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-plugin-react": "^7.32.2",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "gh-pages": "^5.0.0",
+        "prettier": "2.8.4",
+        "sass": "^1.60.0"
     }
 }
