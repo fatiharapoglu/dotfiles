@@ -33,3 +33,7 @@ Created with **React** and **Firebase**.
 ## How It Looks
 
 ![ss](readme.jpg)
+
+## License
+
+? 
