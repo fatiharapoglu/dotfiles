@@ -4,7 +4,7 @@ Description of the project.
 
 Created with **React** and **Firebase**.
 
-⮕ [Live preview](https://fatiharapoglu.github.io/photo-tag/)
+## ⮕ [Live preview](https://fatiharapoglu.github.io/photo-tag/)
 
 ## Features
 
@@ -22,8 +22,8 @@ Created with **React** and **Firebase**.
 
 ## Roadmap
 
--   To-do 1
--   To-do 2
+-   [x]   To-do 1
+-   [ ]   To-do 2
 
 ## Acknowledgements
 
@@ -34,6 +34,12 @@ Created with **React** and **Firebase**.
 
 ![ss](readme.jpg)
 
+## Contact
+
+⮕ [Portfolio](https://fatiharapoglu.github.io/)
+
+⮕ [LinkedIn](https://www.linkedin.com/in/fatiharapoglu/)
+
 ## License
 
-? 
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
