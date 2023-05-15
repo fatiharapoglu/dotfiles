@@ -14,7 +14,8 @@
         "build": "vite build",
         "deployDist": "git subtree push --prefix dist origin gh-pages",
         "predeploy": "npm run build",
-        "deployGhPages": "gh-pages -d build"
+        "deployGhPages": "gh-pages -d build",
+        "postinstall": "cd src && npx prisma generate"
     },
     "dependencies": {
         "react": "^18.2.0",
