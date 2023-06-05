@@ -2,7 +2,7 @@
 
 Description of the project.
 
-Created with **React** and **Firebase**.
+Created with **React** and **Firebase**. Deployed on [**Vercel**](https://vercel.com/).
 
 ## ⮕ [Live preview](https://fatiharapoglu.github.io/photo-tag/)
 
@@ -36,7 +36,7 @@ Created with **React** and **Firebase**.
 
 ## Contact
 
-⮕ [Portfolio](https://fatiharapoglu.github.io/)
+⮕ [Portfolio](https://fatiharapoglu.dev)
 
 ⮕ [LinkedIn](https://www.linkedin.com/in/fatiharapoglu/)
 
